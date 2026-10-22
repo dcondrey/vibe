@@ -266,6 +266,7 @@ Deprecated datasets will remain available, but their benchmark results will not 
 | [FlatNav](https://github.com/BlaiseMuhirwa/flatnav) | 0.1.2 |
 | [GGNN](https://github.com/cgtuebingen/ggnn) | 0.9 |
 | [Glass](https://github.com/zilliztech/pyglass) | git+d2296ec |
+| [HMS](https://github.com/writerslogic/holographic-memory) | git+5c66a48 |
 | [HNSW-RaBitQ](https://github.com/VectorDB-NTU/RaBitQ-Library) | 0.3.7 |
 | [HNSW](https://github.com/nmslib/hnswlib) | 0.8.0 |
 | [IVF (Faiss)](https://github.com/facebookresearch/faiss) | 1.14.3 |
