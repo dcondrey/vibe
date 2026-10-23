@@ -66,7 +66,7 @@ float:
           code_bits: [8]
           learn_queries: [32768]
         query_args:
-          ef: [100, 128, 160, 200, 256, 320, 400, 512, 640, 800, 1000, 1500]
+          ef: [100, 128, 160, 200, 256, 320, 512, 800, 1000]
           rerank: [400]
           reservoir: [0, 400]
-          patience: [0, 20]
+          patience: [0, 8, 20]
