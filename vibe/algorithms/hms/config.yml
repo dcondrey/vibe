@@ -5,6 +5,7 @@ float:
     constructor: HMS
     singularity_image: hms
     disabled: false
+    ood: true
     base_args: ['@metric']
     run_groups:
       base:
@@ -22,6 +23,7 @@ float:
     constructor: HMS
     singularity_image: hms
     disabled: false
+    ood: true
     base_args: ['@metric']
     run_groups:
       base:
@@ -54,6 +56,7 @@ float:
     constructor: HMS
     singularity_image: hms
     disabled: false
+    ood: true
     base_args: ['@metric']
     run_groups:
       query-aware:
